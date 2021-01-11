@@ -4,6 +4,14 @@ A new Flutter application.
 
 ## Getting Started
 
+In this repository I will be showing you how to redesign Twitter Auhentications Screens 
+
+Do ⭐ the repo it really motivates me to share more open source
+
+
+## [Watch it on YouTube](  )
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
